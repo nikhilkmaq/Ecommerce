@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PiyanshuManojkumarAg\\Desktop\\ECommerce\\Backend\\ECommerceApi\\ECommerceApi.csproj": {}
+    "C:\\Users\\NikhilKumarSinghMAQS\\OneDrive - MAQ Software\\Desktop\\Assignments\\ecom\\ECommerce\\Backend\\ECommerceApi\\ECommerceApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PiyanshuManojkumarAg\\Desktop\\ECommerce\\Backend\\ECommerceApi\\ECommerceApi.csproj": {
+    "C:\\Users\\NikhilKumarSinghMAQS\\OneDrive - MAQ Software\\Desktop\\Assignments\\ecom\\ECommerce\\Backend\\ECommerceApi\\ECommerceApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PiyanshuManojkumarAg\\Desktop\\ECommerce\\Backend\\ECommerceApi\\ECommerceApi.csproj",
+        "projectUniqueName": "C:\\Users\\NikhilKumarSinghMAQS\\OneDrive - MAQ Software\\Desktop\\Assignments\\ecom\\ECommerce\\Backend\\ECommerceApi\\ECommerceApi.csproj",
         "projectName": "ECommerceApi",
-        "projectPath": "C:\\Users\\PiyanshuManojkumarAg\\Desktop\\ECommerce\\Backend\\ECommerceApi\\ECommerceApi.csproj",
-        "packagesPath": "C:\\Users\\PiyanshuManojkumarAg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PiyanshuManojkumarAg\\Desktop\\ECommerce\\Backend\\ECommerceApi\\obj\\",
+        "projectPath": "C:\\Users\\NikhilKumarSinghMAQS\\OneDrive - MAQ Software\\Desktop\\Assignments\\ecom\\ECommerce\\Backend\\ECommerceApi\\ECommerceApi.csproj",
+        "packagesPath": "C:\\Users\\NikhilKumarSinghMAQS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NikhilKumarSinghMAQS\\OneDrive - MAQ Software\\Desktop\\Assignments\\ecom\\ECommerce\\Backend\\ECommerceApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PiyanshuManojkumarAg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\NikhilKumarSinghMAQS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
